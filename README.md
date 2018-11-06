@@ -3,11 +3,12 @@
 Test of full stack build with the following technologies
 
 * client
- * react
- * webpack
+  * react
+  * webpack
+  
 * server
- * spring boot with spring data jpa
- * maven
+  * spring boot with spring data jpa
+  * maven
 
 
 ## dev
